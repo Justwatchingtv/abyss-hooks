@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "name": "reference-bound",
+  "topology": "PoolBoundV4",
+  "source": "ReferenceBoundHook.sol",
+  "contract": "ReferenceBoundHook",
+  "license": "MIT"
+}
